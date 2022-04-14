@@ -1,0 +1,48 @@
+[
+	{
+        "name": "Waste",
+        "progress": 0,
+        "symbol": "trash",
+        "goal": 1
+	},{
+        "name": "Water",
+        "progress": 0,
+        "symbol": "drop.fill",
+        "goal": 1
+    },{
+        "name": "Fashion",
+        "progress": 0,
+        "symbol": "figure.walk",
+        "goal": 1
+    },{
+        "name": "Habitats",
+        "progress": 0,
+        "symbol": "leaf.fill",
+        "goal": 1
+    },{
+        "name": "Learning",
+        "progress": 0,
+        "symbol": "lightbulb.fill",
+        "goal": 1
+    },{
+        "name": "Transport",
+        "progress": 0,
+        "symbol": "car",
+        "goal": 1
+    },{
+        "name": "Food",
+        "progress": 0,
+        "symbol": "mouth",
+        "goal": 1
+    },{
+        "name": "Activism",
+        "progress": 0,
+        "symbol": "person.3.fill",
+        "goal": 1
+    },{
+        "name": "Home",
+        "progress": 0,
+        "symbol": "house",
+        "goal": 1
+    }
+]

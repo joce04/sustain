@@ -1,0 +1,405 @@
+[
+    {
+        "name": "Recycle your Christmas tree",
+        "section": "Waste",
+        "information": "Countless Christmas trees are thrown away. Consider composting or planting yours.",
+        "points": 10,
+        "special": false
+    },{
+        "name": "Turn down your heating by 5 degrees F for a week",
+        "section": "Home",
+        "information": "Each 5 degree F increase in temperature produces a 7% to 11% increase in energy consumption, depending on how well your home is insulated. Use your heat wisely!",
+        "points": 5,
+        "special": false
+    },{
+        "name": "Vow to be a conscientious consumer",
+        "section": "Activism",
+        "information": "Everything we buy has an indirect effect on the environment. Estimate the ecological footprint of 2 things you buy today.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Research how to access renewable energy",
+        "section": "Home",
+        "information": "Energy gained through wind, solar, or hydro has a less negative impact on the environment compared with fossil fuels and nuclear power.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Switch to a renewable energy source",
+        "section": "Home",
+        "information": "Invest money in a renewable energy source or switch your household to a renewable source.",
+        "points": 15,
+        "special": false
+    },{
+        "name": "Collect rainwater from your gutters to water your plants",
+        "section": "Water",
+        "information": "This water can be stored in a barrel with a hose attachment, or simply in a pot.",
+        "points": 5,
+        "special": false
+    },{
+        "name": "Place a bottle of sand in your toilet cistern",
+        "section": "Water",
+        "information": "This reduces the volume of water used in each flush.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Shower for only 5 minutes",
+        "section": "Water",
+        "information": "The average American showers for 8 minutes. Showering for only 5 minutes saves 7.5 gallons of water each shower.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Clean your walkways with a broom",
+        "section": "Water",
+        "information": "Instead of hosing down your outdoor walkways, sweep the leaves and dirt away. You save around 30 gallons of water every 5 minutes you don't use the hose.",
+        "points": 5,
+        "special": false
+    },{
+        "name": "Install water-efficient shower heads",
+        "section": "Water",
+        "information": "According to the EPA, a low-flow, water-saving shower head can reduce water usage for the average family by 2900 gallons a year.",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Wash a full load of laundry",
+        "section": "Water",
+        "information": "Laundry machines are one of the appliances that use the most water in your home. Doing a full load saves 15-45 gallons of water.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Wash a full load of dishes",
+        "section": "Water",
+        "information": "Dishwashers are one of the top two appliances that use the most water in your home. Filling up the dishwasher before washing it can save up to 15 gallons of water.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Choose tap water over bottled water",
+        "section": "Water",
+        "information": "Not only does this save plastic, it also saves water! Manufacturing a plastic bottle takes about 1.5 gallons of water.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Introduce a Meatless Monday",
+        "section": "Water",
+        "information": "According to the GRACE Foundation, raising meat requires significantly more water than growing grains and produce. A pound of corn requires 147 gallons of water, while in comparison a pound of beef requires 1,800.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Introduce a Meatless Monday",
+        "section": "Food",
+        "information": "It requires significantly more energy, food and nutrients to raise beef than it does to eat the same amount from plants.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Buy produce from a local farm or farmer's market",
+        "section": "Food",
+        "information": "Buy local reduces the carbon impact of transporting your food across the world",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Buy clothing from a second-hand store or thrift shop",
+        "section": "Fashion",
+        "information": "Buying from a thrift shop or second-hand store is not only budget-minded but eco-conscious. Reusing clothing this way reduces the amount of clothing that ends up in landfills and doesn't support clothing made in sweatshops.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Choose high-quality clothing over fast fasion.",
+        "section": "Fashion",
+        "information": "If you also care for your clothing properly, you will be able to reusing that item of clothing over and over again. This reduces the need for you to buy new clothes.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Organize a clothing swap",
+        "section": "Fashion",
+        "information": "People can use this to exchange clothing in your office or community.",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Buy Fair Trade",
+        "section": "Fashion",
+        "information": "When you buy Fair Trade, you're supporting a system that provides adequate working conditions for econmically disadvantaged artisans worldwide.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Research the environmental practices of one company.",
+        "section": "Fashion",
+        "information": "Using websites like Green America's Responsible Shopper Web site, find data on the environmental and social information of the company.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Buy 5 ethically sourced clothing items.",
+        "section": "Fashion",
+        "information": "This includes Fair-Trade, union-made, cooperative-made or bought directly from a local artist clothing.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Start a garden",
+        "section": "Food",
+        "information": "Starting a garden has a variety of benefits, from being healthy for the bees, regenerating healthier soil to fresh food for your meals.",
+        "points": 7,
+        "special": false
+    },{
+        "name": "Start a compost bin",
+        "section": "Waste",
+        "information": "This only requires 3 basic ingredients: browns, greens and water.",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Start a compost bin",
+        "section": "Food",
+        "information": "This only requires 3 basic ingredients: browns, greens and water.",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Be aware of which fish are being overfished currently.",
+        "section": "Food",
+        "information": "Research which species of fish are being caught faster than they can replenish their populations",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Water your plants with recycled indoor water",
+        "section": "Water",
+        "information": "Instead of dumping out that cup of water you washed your tomatoes in, give it to your plants.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Bring your own shopping bag",
+        "section": "Waste",
+        "information": "Refuse plastic bags at the store. This reduces the amount of plastic waste.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Choose an alternative to single use plastics",
+        "section": "Waste",
+        "information": "These plastics (straws, wrappers, waterbottles) are convienient but devastating for the environment. Avoid buying products that use single-use plastics.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Choose more recycled or waste-based products",
+        "section": "Waste",
+        "information": "Thanks to technological advances throughout the years, waste can now be turned into new high quality products. Choose products that are created from what once was trash. This includes bags, shoes, and more.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Choose more recycled or waste-based products",
+        "section": "Fashion",
+        "information": "Thanks to technological advances throughout the years, waste can now be turned into new high quality products. Choose products that are created from what once was trash. This includes bags, shoes, and more.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Support local brands and small independent designers.",
+        "section": "Fashion",
+        "information": "Shopping in local stores is a great way to celebrate and support local artisans and businesses. There is a lesser impact on the environment, as these businesses often create their products using local resources while providing jobs for the community.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Make an active effort to reduce food waste.",
+        "section": "Food",
+        "information": "Tons of edible food is lost or wasted everyday worldwide, putting unnessecary strain on our natural resources and damaging the environment.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Make an active effort to reduce food waste.",
+        "section": "Waste",
+        "information": "Tons of edible food is lost or wasted everyday worldwide, putting unnessecary strain on our natural resources and damaging the environment.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Plant carbon-absorbing trees or plants at home.",
+        "section": "Habitats",
+        "information": "Plants fixate carbon dioxide through a process called photosynthesis. Increasing the number of carbon-absorbing greenery help reduce our impacts on the levels of excess carbon dioxide.",
+        "points": 5,
+        "special": false
+    },{
+        "name": "Invest in ethical financial institutions.",
+        "section": "Home",
+        "information": "Avoid investing in fossil fuels, go with ethical financials institutions.",
+        "points": 4,
+        "special": false
+    },{
+        "name": "Actively choose against palm oil and pesticide ingredients",
+        "section": "Home",
+        "information": "Palm oil plantations are a big contributing factor to deforestations. Pesticides create pollution and kill essential insects like bees.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Walk/bike to your destination (less than 2km).",
+        "section": "Transport",
+        "information": "Walking and biking are good for your health and eliminates the carbon footprint of travelling to that destination.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Walk/bike to your destination (2km-10km).",
+        "section": "Transport",
+        "information": "Walking and biking are good for your health and eliminates the carbon footprint of travelling to that destination.",
+        "points": 4,
+        "special": false
+    },{
+        "name": "Walk/bike to your destination (more than 10km).",
+        "section": "Transport",
+        "information": "Walking and biking are good for your health and eliminates the carbon footprint of travelling to that destination.",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Use public transportation instead of personal transportation.",
+        "section": "Transport",
+        "information": "Public transportation includes buses and subways.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Buy an electric car.",
+        "section": "Transport",
+        "information": "Electric cars are important step to reducing your carbon footprint if you must have a car.",
+        "points": 25,
+        "special": false
+    },{
+        "name": "Use a ride-share program.",
+        "section": "Transport",
+        "information": "This includes Lyft, Uber, Bolt and even just normal carpooling. Be sure to stay safe!",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Rent a Christmas tree.",
+        "section": "Waste",
+        "information": "Instead of buying a tree that will ultimately be thrown away, consider renting one from a Christmas tree renting shop for the season and returning it after.",
+        "points": 8,
+        "special": false
+    },{
+        "name": "Install solar panels.",
+        "section": "Home",
+        "information": "Solar panels reduce the amount of electricity your home consumes from other, less sustainable sources like coal.",
+        "points": 12,
+        "special": false
+    },{
+        "name": "Swap your dryer for a clothesline.",
+        "section": "Home",
+        "information": "This both helps you save money and reduces your carbon footprint.",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Contact your local representative.",
+        "section": "Activism",
+        "information": "Reach out through email or phone to your local government representative about local (or global) issues that are important to you and your community.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Sign a petition.",
+        "section": "Activism",
+        "information": "It takes less than 5 minutes to find and sign one petition to sign each day.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Attend a climate-focused event.",
+        "section": "Activism",
+        "information": "This can including attending a Zoom webinar or getting out in person at protests. It will help you stay informed and feel more involved in the collective struggle.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Find and join a supportive activist network",
+        "section": "Activism",
+        "information": "Check out a couple of activists groups local or online, and find a group of people you can work alongside.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Organize a climate-focused event.",
+        "section": "Activism",
+        "information": "This will help spread the word about climate injustices you are passionate about, and bring about more action.",
+        "points": 12,
+        "special": false
+    },{
+        "name": "Host a letter-writing campaign.",
+        "section": "Activism",
+        "information": "Identify an issue important to you and then get a group of people together to write and send a letter about it. This will amplify your impact!",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Host a zero waste workshop.",
+        "section": "Activism",
+        "information": "Research and run your own zero waste workshop. Take your activism beyond reading books and blog posts. Make concrete changes to your lifestyle and share that with others!",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Vote.",
+        "section": "Activism",
+        "information": "Research candidates and place your votes on who offers the best climate platform.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Read a chapter on a book about sustainability.",
+        "section": "Learning",
+        "information": "Bonus points if this book is borrowed from a library or second hand! There are many books recommenadations online.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Find and follow a climate news source",
+        "section": "Learning",
+        "information": "Stay up to date on things happening around the world that could impact sustainability!",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Complete an online sustainability course.",
+        "section": "Learning",
+        "information": "Courses on sustainability from leading universities in the world can be found on the edX platform",
+        "points": 12,
+        "special": false
+    },{
+        "name": "Learn to identify native or endangered plants.",
+        "section": "Habitats",
+        "information": "Identifying these plants can help reduce the loss of biodiversity from invasive species and give you more knowledge of the place you reside in.",
+        "points": 2,
+        "special": false
+    },{
+        "name": "Actively acknowledge the Indigenous land you reside on.",
+        "section": "Habitats",
+        "information": "Take some time out of your day to acknowledge the first peoples whose land you are living on. They focus on the connection and preservation of the natural world and are recognized as essential for ecosystem health in many areas of the world.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Connect with a local Indigenous Elder or knowledge keeper.",
+        "section": "Learning",
+        "information": "Indigenous peoples hold a wealth of knowledge about their land, and how to best take care of it. Understanding their story is essential to maintaining a healthy relationship with the earth.",
+        "points": 5,
+        "special": false
+    },{
+        "name": "Find time to get outside daily.",
+        "section": "Habitats",
+        "information": "For many of us, our disconnection with the natural world makes it easy to toss it aside in favour of our other interests and ignorant about changes in our environment.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Provide 1-2 hours of support to an organization working to reduce our impact on the planet.",
+        "section": "Activism",
+        "information": "Identify an issue important to you and then get a group of people together to write and send a letter about it. This will amplify your impact!",
+        "points": 6,
+        "special": false
+    },{
+        "name": "Make seed-bombs.",
+        "section": "Habitats",
+        "information": "Get together with some friends and create some seed bombs, which are just little balls of clay, compost and native seeds. Embrace a little anarchy and throw them around your neighbourhood.",
+        "points": 4,
+        "special": false
+    },{
+        "name": "Make a meal only with locally sourced and seasonal foods.",
+        "section": "Food",
+        "information": "Eating with the seasons and the food that is grown in your area for that time of the year benefits the planet and reduces food waste! As a plus, you are also eating signifcantly healthier.",
+        "points": 3,
+        "special": false
+    },{
+        "name": "Research or buy 2 local and seasonal foods",
+        "section": "Food",
+        "information": "Discovering new foods and eating local, seasonal foods is healthier for the environment and for your diet!",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Research an endangered species in your area",
+        "section": "Habitat",
+        "information": "Knowing the endangered species in your area is the first step to protecting them with your actions and raising awareness for others' actions.",
+        "points": 1,
+        "special": false
+    },{
+        "name": "Set a daily goal for number of points you wish to gain.",
+        "section": "Home",
+        "information": "This is super simple. Go into the Home tab and click on 'Set an overall goal'. This button will only show up if you have completed your previous goal though, so make sure you finish those!",
+        "points": 1,
+        "special": false
+    }
+]
